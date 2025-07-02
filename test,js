@@ -10,4 +10,4 @@ module.exports = {
     testFunction: testFunction
 };
 // This is a test code snippet to ensure the environment is set up correctly
-console.log("Test code snippet executed successfully.");
+console.log("Test code snippet executed.");
