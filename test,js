@@ -5,7 +5,6 @@ function testFunction() {
 
 // Call the test function to see if it works
 testFunction();
-// Export the test function for use in other modules
 module.exports = {
     testFunction: testFunction
 };
