@@ -1,0 +1,13 @@
+//dummy code to test the code snippet
+function testFunction() {
+    console.log("This is a test function.");
+}
+
+// Call the test function to see if it works
+testFunction();
+// Export the test function for use in other modules
+module.exports = {
+    testFunction: testFunction
+};
+// This is a test code snippet to ensure the environment is set up correctly
+console.log("Test code snippet executed successfully.");
